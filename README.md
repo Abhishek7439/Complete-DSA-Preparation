@@ -86,4 +86,12 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
