@@ -81,6 +81,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
@@ -94,4 +95,20 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
