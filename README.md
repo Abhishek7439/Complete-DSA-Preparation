@@ -82,6 +82,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -98,6 +99,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
@@ -161,4 +163,8 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
