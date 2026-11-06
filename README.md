@@ -85,6 +85,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -176,6 +177,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
 | ------- |
@@ -187,10 +189,12 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Hash Table
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
