@@ -90,6 +90,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -107,6 +108,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Bit Manipulation
 |  |
 | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -213,6 +215,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Hash Table
 |  |
 | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
