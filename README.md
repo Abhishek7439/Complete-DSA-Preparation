@@ -93,6 +93,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -267,6 +268,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -337,6 +339,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
