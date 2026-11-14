@@ -110,6 +110,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
