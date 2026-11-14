@@ -95,6 +95,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
+| [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -235,6 +236,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
+| [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -299,6 +301,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
