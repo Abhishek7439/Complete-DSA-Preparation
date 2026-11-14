@@ -91,6 +91,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1345-jump-game-iv) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -231,6 +232,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [0396-rotate-function](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -277,6 +279,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1340-jump-game-v](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1340-jump-game-v) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
