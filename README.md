@@ -146,6 +146,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -197,6 +198,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3093-longest-common-suffix-queries](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -403,6 +405,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1914-cyclically-rotating-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 ## Ordered Set
 |  |
