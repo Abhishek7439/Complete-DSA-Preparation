@@ -82,6 +82,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -132,6 +133,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -187,6 +189,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0048-rotate-image) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
