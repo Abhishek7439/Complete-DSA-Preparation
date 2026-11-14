@@ -98,6 +98,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
@@ -158,6 +159,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1267-count-servers-that-communicate) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -207,6 +209,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Linked List
 |  |
 | ------- |
