@@ -258,6 +258,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0061-rotate-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
