@@ -135,6 +135,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [0396-rotate-function](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0788-rotated-digits](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -202,6 +203,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3225-maximum-score-from-grid-operations) |
