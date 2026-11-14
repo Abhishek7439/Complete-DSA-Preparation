@@ -146,6 +146,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0796-rotate-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -349,4 +350,8 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
