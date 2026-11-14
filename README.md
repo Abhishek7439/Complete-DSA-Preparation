@@ -98,6 +98,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1861-rotating-the-box) |
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
@@ -203,6 +204,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3225-maximum-score-from-grid-operations) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -322,6 +324,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1914-cyclically-rotating-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
