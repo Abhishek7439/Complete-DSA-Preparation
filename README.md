@@ -94,6 +94,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -285,6 +286,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Hash Table
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -360,6 +362,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3225-maximum-score-from-grid-operations) |
