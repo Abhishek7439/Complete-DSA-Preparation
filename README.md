@@ -139,6 +139,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -405,6 +406,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3689-maximum-total-subarray-value-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
