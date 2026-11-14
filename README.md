@@ -109,6 +109,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3225-maximum-score-from-grid-operations) |
@@ -272,6 +273,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
+| [2784-check-if-array-is-good](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Linked List
@@ -291,6 +293,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
+| [2784-check-if-array-is-good](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
