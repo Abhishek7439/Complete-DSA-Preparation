@@ -110,6 +110,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2126-destroying-asteroids](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2553-separate-the-digits-in-an-array) |
@@ -269,6 +270,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Tree
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -327,6 +329,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [1345-jump-game-iv](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -455,4 +458,8 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
