@@ -133,6 +133,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
@@ -283,6 +284,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2784-check-if-array-is-good](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
 | ------- |
@@ -306,6 +308,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
@@ -346,6 +349,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2553-separate-the-digits-in-an-array) |
+| [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 ## Ordered Set
 |  |
 | ------- |
