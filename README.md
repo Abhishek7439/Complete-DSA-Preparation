@@ -87,6 +87,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1267-count-servers-that-communicate](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
