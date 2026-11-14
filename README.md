@@ -115,6 +115,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -193,6 +194,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3643-flip-square-submatrix-vertically) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -203,6 +205,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3693-climbing-stairs-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
