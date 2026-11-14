@@ -140,6 +140,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
@@ -269,6 +270,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1267-count-servers-that-communicate) |
+| [2833-furthest-point-from-origin](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
