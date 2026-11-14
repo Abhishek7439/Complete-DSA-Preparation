@@ -93,6 +93,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
@@ -137,6 +138,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
@@ -302,6 +304,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Trie
 |  |
 | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
