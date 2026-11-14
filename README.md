@@ -87,6 +87,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
@@ -160,6 +161,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1267-count-servers-that-communicate) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3643-flip-square-submatrix-vertically) |
@@ -168,6 +170,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
