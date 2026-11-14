@@ -170,6 +170,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1871-jump-game-vii) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2833-furthest-point-from-origin) |
@@ -234,6 +235,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [0788-rotated-digits](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3225-maximum-score-from-grid-operations) |
@@ -316,6 +318,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Sliding Window
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1871-jump-game-vii) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -383,6 +386,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3225-maximum-score-from-grid-operations) |
