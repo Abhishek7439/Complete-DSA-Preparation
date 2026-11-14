@@ -163,6 +163,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3693-climbing-stairs-ii) |
@@ -276,6 +277,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
