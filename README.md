@@ -171,6 +171,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -205,6 +206,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -273,6 +275,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
