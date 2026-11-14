@@ -100,6 +100,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
