@@ -177,6 +177,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -270,6 +271,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3660-jump-game-ix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3693-climbing-stairs-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
