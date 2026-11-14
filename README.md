@@ -90,6 +90,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -210,6 +211,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -252,4 +254,8 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
