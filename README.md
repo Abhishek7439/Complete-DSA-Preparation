@@ -118,6 +118,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3693-climbing-stairs-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -143,6 +144,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
@@ -275,6 +277,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
