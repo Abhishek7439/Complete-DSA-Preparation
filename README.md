@@ -91,6 +91,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -125,6 +126,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -212,6 +214,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2747-count-zero-request-servers) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
 ## Sliding Window
@@ -267,4 +270,8 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
