@@ -95,6 +95,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1345-jump-game-iv](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1345-jump-game-iv) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -169,6 +170,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0788-rotated-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -261,6 +263,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [0396-rotate-function](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1340-jump-game-v) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -445,6 +448,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2574-left-and-right-sum-differences) |
