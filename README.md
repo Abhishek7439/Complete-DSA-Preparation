@@ -194,6 +194,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1871-jump-game-vii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2833-furthest-point-from-origin) |
@@ -409,6 +410,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
