@@ -129,6 +129,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3161-block-placement-queries](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -206,6 +207,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3093-longest-common-suffix-queries](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3838-weighted-word-mapping](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
@@ -219,6 +221,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -294,6 +297,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -367,6 +371,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
