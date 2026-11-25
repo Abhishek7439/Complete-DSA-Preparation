@@ -156,6 +156,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3934-smallest-unique-subarray) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -381,6 +382,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
@@ -418,6 +420,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -520,4 +523,16 @@ Solutions will be added regularly as I continue my DSA preparation.
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
