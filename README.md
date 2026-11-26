@@ -181,6 +181,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-count-days-spent-together](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -435,6 +436,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3360-stone-removal-game) |
 | [3838-weighted-word-mapping](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3842-toggle-light-bulbs) |
 ## Ordered Set
