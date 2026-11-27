@@ -158,6 +158,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3934-smallest-unique-subarray) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,6 +297,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -457,6 +459,7 @@ Solutions will be added regularly as I continue my DSA preparation.
 | [3689-maximum-total-subarray-value-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhishek7439/Complete-DSA-Preparation/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
